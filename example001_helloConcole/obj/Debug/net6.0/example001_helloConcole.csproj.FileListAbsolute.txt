@@ -1,0 +1,15 @@
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\bin\Debug\net6.0\example001_helloConcole.exe
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\bin\Debug\net6.0\example001_helloConcole.deps.json
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\bin\Debug\net6.0\example001_helloConcole.runtimeconfig.json
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\bin\Debug\net6.0\example001_helloConcole.dll
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\bin\Debug\net6.0\example001_helloConcole.pdb
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\obj\Debug\net6.0\example001_helloConcole.csproj.AssemblyReference.cache
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\obj\Debug\net6.0\example001_helloConcole.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\obj\Debug\net6.0\example001_helloConcole.AssemblyInfoInputs.cache
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\obj\Debug\net6.0\example001_helloConcole.AssemblyInfo.cs
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\obj\Debug\net6.0\example001_helloConcole.csproj.CoreCompileInputs.cache
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\obj\Debug\net6.0\example001_helloConcole.dll
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\obj\Debug\net6.0\refint\example001_helloConcole.dll
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\obj\Debug\net6.0\example001_helloConcole.pdb
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\obj\Debug\net6.0\example001_helloConcole.genruntimeconfig.cache
+D:\GB\lection\Lection_10\Examples\example001_helloConcole\obj\Debug\net6.0\ref\example001_helloConcole.dll
